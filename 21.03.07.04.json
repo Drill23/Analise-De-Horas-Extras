@@ -1,0 +1,4121 @@
+{
+  "versao": "3.2",
+  "dataExportacao": "2025-04-09T17:10:18.104Z",
+  "registros": [
+    {
+      "id": "m9a3657pe8tjd",
+      "matricula": "73999",
+      "nome": "ADALTO RODRIGUES MEIRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 18,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pmwpen",
+      "matricula": "75247",
+      "nome": "ADRIANO ROSA DA SILVA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 17,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657ppiugl",
+      "matricula": "79637",
+      "nome": "ALESSANDRO APARECIDO BARBOSA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 40,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pbrj95",
+      "matricula": "56624",
+      "nome": "BENEDITO DE MELO SANTOS",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 35,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657p3d4t1",
+      "matricula": "58326",
+      "nome": "CARLITO AGENOR DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 28,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pczl13",
+      "matricula": "79639",
+      "nome": "CLEITON COSTA VENANCIO",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 16,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657p791t2",
+      "matricula": "60524",
+      "nome": "GERSON PEDRO DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 66,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pasm3v",
+      "matricula": "62013",
+      "nome": "JAKSON DOS SANTOS SILVA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 324,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657ps9xko",
+      "matricula": "75928",
+      "nome": "JEFERSON BARBOSA DOS SANTOS",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 14,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pk6e1l",
+      "matricula": "78635",
+      "nome": "JOAO PAULO DOS SANTOS",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 23,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657ph9fut",
+      "matricula": "73148",
+      "nome": "JOSE CLAUDIO FERNANDES SANCHES",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 26,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pre6u6",
+      "matricula": "72070",
+      "nome": "JOSE RUBEM DE ANDRADE",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 10,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657p372sj",
+      "matricula": "72082",
+      "nome": "JUCIMAR ADRIANO DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 21,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pkh3sp",
+      "matricula": "79211",
+      "nome": "JULIANO JOSE FERREIRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 8,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657posyjw",
+      "matricula": "80131",
+      "nome": "LAUDIVANIO VIEIRA DOS SANTOS",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 19,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pvc7qx",
+      "matricula": "69826",
+      "nome": "LUIZ CARLOS GOMES VIEIRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 35,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657p0ohl2",
+      "matricula": "69468",
+      "nome": "MATHEUS SANTOS DA GAMA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 25,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657ptl74f",
+      "matricula": "74682",
+      "nome": "PEDRO PEREIRA BEZERRA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 19,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pu3ug3",
+      "matricula": "74982",
+      "nome": "ROBERSON DE ALMEIDA BARBOSA",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 25,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3657pbl3wy",
+      "matricula": "79203",
+      "nome": "SERGIO DOS SANTOS",
+      "turno": "2",
+      "setor": "Plataforma",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 57,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngq91k51",
+      "matricula": "73492",
+      "nome": "ELENICE LIMA DIAS",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 88,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngq9ufiy",
+      "matricula": "73669",
+      "nome": "FATIMA PEREIRA DO CARMO",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 6,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngqp581x",
+      "matricula": "60642",
+      "nome": "LEONTINA DA COSTA GUIMARAES DOS SANTOS",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 21,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngqmagq2",
+      "matricula": "76721",
+      "nome": "MARIA APARECIDA DE SOUZA",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 6,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngqbm65j",
+      "matricula": "64502",
+      "nome": "MARIA DAS DORES BARBOSA PIRES",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 30,
+        "por": 0,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngqk6w4k",
+      "matricula": "62018",
+      "nome": "SIMONE PEREIRA DE SOUZA",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 25,
+        "por": 86,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngqcvzgq",
+      "matricula": "80066",
+      "nome": "VITORIA SUPRIANO DA SILVA",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 19,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngq4110j",
+      "matricula": "80047",
+      "nome": "WALYSSON DA SILVA BEZERRA",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 85,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a38ngq5nbzi",
+      "matricula": "80048",
+      "nome": "WENDERSON MENDONCA DA CRUZ",
+      "turno": "2",
+      "setor": "Escaldagem/depenagem",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 107,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoivwac9",
+      "matricula": "79422",
+      "nome": "ANDRE INACIO BARBOSA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 234,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoi7kg1n",
+      "matricula": "69684",
+      "nome": "ANDREIA ROSA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoic5fcw",
+      "matricula": "70685",
+      "nome": "ANGELITA GEMA BIANCHINI",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 41,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baois6sno",
+      "matricula": "55708",
+      "nome": "BRASILINA MARIA GONCALVES OLIVEIRA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 139,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoi2u6ho",
+      "matricula": "80413",
+      "nome": "CELIA PICULLI DA SILVA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 26,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoi8qxq4",
+      "matricula": "74174",
+      "nome": "ELIANE SILVA DE SA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 21,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoih62vq",
+      "matricula": "56808",
+      "nome": "EPAMINONDAS LIMA DA SILVA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 17,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoitu21a",
+      "matricula": "69881",
+      "nome": "FABIANA BARROS PEREIRA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoio9r3s",
+      "matricula": "62011",
+      "nome": "FLAVIA FERNANDA DA SILVA CARNEIRO",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 328,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoi8iwgg",
+      "matricula": "76795",
+      "nome": "GABRIEL DA SILVA ANDRADE",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 10,
+        "por": 40,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoiahfdg",
+      "matricula": "73777",
+      "nome": "GABRIELA DE MENDONCA WOYNAROSKI",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 73,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoiut76v",
+      "matricula": "74544",
+      "nome": "GEIZE KELLE MARIA DA SILVA SANTOS",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 20,
+        "por": 230,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoiotmso",
+      "matricula": "75819",
+      "nome": "GEOVANA OLIVEIRA DA GAMA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 41,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoiaar2d",
+      "matricula": "63226",
+      "nome": "HUMBERTO DIONISIO DE MORAES",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 6,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 1095
+      }
+    },
+    {
+      "id": "m9a3baoim268q",
+      "matricula": "70563",
+      "nome": "JOICE FONSECA MARTINS",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 18,
+        "por": 118,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoidvhpn",
+      "matricula": "81128",
+      "nome": "JOSE FRANCIALISON DA SILVA SOARES",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 27,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoiu5fdm",
+      "matricula": "78931",
+      "nome": "JULIANA SILVA DE ALMEIDA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 37,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoi6qwak",
+      "matricula": "81129",
+      "nome": "KAUA HENRIQUE DE SOUZA BASSO",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 32,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoiqgwnc",
+      "matricula": "58207",
+      "nome": "LAISA DE PAULA DUTRA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 153,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoid9rsc",
+      "matricula": "69696",
+      "nome": "LEIA APARECIDA ALVAREZ",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 26,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoijrm6v",
+      "matricula": "56894",
+      "nome": "LUIZ CARLOS DOS SANTOS",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 23,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoi7ve1f",
+      "matricula": "71031",
+      "nome": "MARIA APARECIDA BARBOSA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 110,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoie21xh",
+      "matricula": "78632",
+      "nome": "MARLY DOS SANTOS LIMA DA SILVA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 35,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoine640",
+      "matricula": "81267",
+      "nome": "NATALIA DE JESUS GONCALVES",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 13,
+        "por": 12,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoijfad1",
+      "matricula": "59730",
+      "nome": "PAMELA DA SILVA MACIEL",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 6,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoimdpl2",
+      "matricula": "80554",
+      "nome": "TAMIRES APARECIDA DA SILVA DIAS ROMERO",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3baoikkvro",
+      "matricula": "75837",
+      "nome": "TAYSLANE SOARES DA SILVA",
+      "turno": "2",
+      "setor": "Evisceração",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 8,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxarrdvc1",
+      "matricula": "76169",
+      "nome": "ADRIEL RUIZ DA CRUZ",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 94,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxarky7me",
+      "matricula": "69968",
+      "nome": "ALENITA DE ALMEIDA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 17,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxarlbe9v",
+      "matricula": "70268",
+      "nome": "ALEXSANDRA FERREIRA DE SOUSA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 34,
+        "por": 103,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxar19gg1",
+      "matricula": "80120",
+      "nome": "CAMILA DIONATAN DA SILVA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 67,
+        "por": 57,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxarmwgr6",
+      "matricula": "80653",
+      "nome": "EVA ALVES DE SOUZA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 95,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxaro3x59",
+      "matricula": "72566",
+      "nome": "HILDA CARNEIRO PINTO",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 81,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxaryr578",
+      "matricula": "61841",
+      "nome": "ITALA DANIELE FELICIANO SANTOS",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 101,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxar7y0k5",
+      "matricula": "79808",
+      "nome": "JESSICA DANIELE  PEREIRA DA SILVA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 27,
+        "por": 101,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxar22qwd",
+      "matricula": "70184",
+      "nome": "JUSSARA APARECIDA RODRIGUES COUTINHO",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 86,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxar8c1lt",
+      "matricula": "72568",
+      "nome": "MARCIA MARIA DE LIMA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 85,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxarlcosx",
+      "matricula": "76022",
+      "nome": "MARIA CICERA ALVES DA SILVA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 119,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3dxartdemx",
+      "matricula": "73581",
+      "nome": "RITA NUNES DA SILVA",
+      "turno": "2",
+      "setor": "Miúdos",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 728,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfv67gtj",
+      "matricula": "69333",
+      "nome": "ANTONIO MARCOS DOS SANTOS",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 60,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfv6lgkv",
+      "matricula": "60530",
+      "nome": "ARMANDO CESAR DE OLIVEIRA GARRIDO",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 118,
+        "por": 37,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfviy6mo",
+      "matricula": "78749",
+      "nome": "CARLOS ROBERTO DOS SANTOS",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 35,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvmw7sz",
+      "matricula": "80417",
+      "nome": "FELIPE DA SILVA FARIAS",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 33,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvltctb",
+      "matricula": "76711",
+      "nome": "FERNANDO FERNANDES DA SILVA",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 23,
+        "por": 107,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfv1n12x",
+      "matricula": "81126",
+      "nome": "GILSON FERREIRA DA CRUZ",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 7,
+        "por": 61,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfv4bwne",
+      "matricula": "60511",
+      "nome": "LEIDIANE RAIANI DE SOUZA",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 25,
+        "por": 34,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvu0ghh",
+      "matricula": "58043",
+      "nome": "LUIS FERNANDO BRAGA DE MORAIS",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 18,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvxgzu7",
+      "matricula": "80978",
+      "nome": "MARCOS DA SILVA NASCIMENTO",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 62,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvmaqsx",
+      "matricula": "58251",
+      "nome": "SONIA BARBOSA DE SOUZA",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 81,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvzh4hi",
+      "matricula": "81132",
+      "nome": "WANDERLEY ALVES RANGEL JUNIOR",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 42,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3fwfvk6t5z",
+      "matricula": "69474",
+      "nome": "WELINGTON HENRIQUE DIAS",
+      "turno": "2",
+      "setor": "Re-pendura",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 166,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xtsd3v4",
+      "matricula": "79427",
+      "nome": "ADEILTON CAVALCANTE DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 30,
+        "por": 193,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xtdnifa",
+      "matricula": "65449",
+      "nome": "ADRIANA PEREIRA DE OLIVEIRA DA CUNHA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 485,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xtaqsiy",
+      "matricula": "75913",
+      "nome": "ALESON CRISTER MERCADO DE SOUZA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 83,
+        "por": 494,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xtz92cs",
+      "matricula": "64114",
+      "nome": "ALESSANDRA RIBEIRO LEAL",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 93,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xt2pk6j",
+      "matricula": "78440",
+      "nome": "CARLOS JOSE MUNOZ GIL",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 21,
+        "por": 224,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuxc9uh",
+      "matricula": "78518",
+      "nome": "EDMILSON ROGERIO DE SOUSA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 19,
+        "por": 133,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuy9yx5",
+      "matricula": "69053",
+      "nome": "ERICA DE JESUS SILVA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 118,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xup0lvz",
+      "matricula": "65319",
+      "nome": "FLAVIO DIONISIO DA SILVA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 27,
+        "por": 471,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xufl7a5",
+      "matricula": "76914",
+      "nome": "HELOYSA GARCONI DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 70,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xutu1sd",
+      "matricula": "61255",
+      "nome": "IGOR HENRIQUE ALVES DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 155,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xu2zhgg",
+      "matricula": "74058",
+      "nome": "JANINA ROSA DE JESUS PEREIRA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 647,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 1172
+      }
+    },
+    {
+      "id": "m9a3k5xuh112m",
+      "matricula": "60533",
+      "nome": "JEFFERSON PICOLO DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 20,
+        "por": 486,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuwxqbb",
+      "matricula": "76588",
+      "nome": "JOHN LENON MOURA DA SILVA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 367,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuozxg2",
+      "matricula": "62987",
+      "nome": "LEIA MORAES DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 230,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuuf8x2",
+      "matricula": "78933",
+      "nome": "LETICIA GABRIELA SANCHES MOREIRA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 21,
+        "por": 300,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xujrglc",
+      "matricula": "59001",
+      "nome": "LINDINALVA PEREIRA DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 224,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xudm1ec",
+      "matricula": "68487",
+      "nome": "LOURDES NUNES DA MOTA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 38,
+        "por": 307,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xupwhhp",
+      "matricula": "67543",
+      "nome": "MARCELA APARECIDA RODRIGUES",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 90,
+        "por": 86,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuu5ldg",
+      "matricula": "68423",
+      "nome": "MARIA PAULA MATHEUS",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 149,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xubfohe",
+      "matricula": "60531",
+      "nome": "MIZAEL RIBEIRO LEAL",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 162,
+        "por": 494,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 973
+      }
+    },
+    {
+      "id": "m9a3k5xuxbizo",
+      "matricula": "58183",
+      "nome": "SILVIA RAMOS DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 125,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xutelwv",
+      "matricula": "79220",
+      "nome": "YELITZA MAIGUALIDA MORALES",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 94,
+        "por": 55,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3k5xuke2cx",
+      "matricula": "78535",
+      "nome": "YENITZA DEL VALLE PEDROZA",
+      "turno": "2",
+      "setor": "Embalagem de cortes",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 312,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu529atum",
+      "matricula": "79790",
+      "nome": "ABDIEL TEIXEIRA SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 34,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52ywi1p",
+      "matricula": "69101",
+      "nome": "ADELAINE DE JESUS SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 211,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu524xyeu",
+      "matricula": "57500",
+      "nome": "ADRIANA MARQUES DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 11,
+        "por": 210,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52n5176",
+      "matricula": "80538",
+      "nome": "ALDINEIA APARECIDA TORRES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 54,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52h96f6",
+      "matricula": "59445",
+      "nome": "ANDERSON DOS SANTOS NICOLINO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 49,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52a8mdc",
+      "matricula": "80109",
+      "nome": "ANDREZA ATANAZIO DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 33,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52ocwwc",
+      "matricula": "81122",
+      "nome": "ASSUCENA SILVA ALVES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 99,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu524g1xy",
+      "matricula": "80809",
+      "nome": "BEATRIZ MENDES BARCELOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 83,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52x67ra",
+      "matricula": "81123",
+      "nome": "BRUNA DE OLIVEIRA GAMA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 184,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52u5xlr",
+      "matricula": "80810",
+      "nome": "BRUNA HELOISA DE SOUZA PINHEIRO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 111,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5238uj8",
+      "matricula": "80811",
+      "nome": "BRUNA VITORIA XAVIER DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 9,
+        "por": 170,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52qpbtp",
+      "matricula": "78521",
+      "nome": "CARLOS JOSE MUNOZ HERNANDEZ",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 181,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52z6ecz",
+      "matricula": "80651",
+      "nome": "CHRISTIAN FRANCISCO MARQUES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 15,
+        "por": 171,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52v61f8",
+      "matricula": "58300",
+      "nome": "CLAUDINEIA PEREIRA DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 13,
+        "por": 249,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu522icwp",
+      "matricula": "55101",
+      "nome": "DELUZIA MOREIRA GERMANO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 22,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52w19as",
+      "matricula": "63622",
+      "nome": "DEYVIDE GUSTAVO DE ARAUJO SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 752,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52dyfjj",
+      "matricula": "69973",
+      "nome": "DJANIRA MARIA DA SILVA ROCHA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 871,
+        "por": 233,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52qeudx",
+      "matricula": "64801",
+      "nome": "EDENILSON LIMA DIAS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 62,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52eyjxc",
+      "matricula": "62598",
+      "nome": "EDINALVA ARAUJO DA SILVA SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 215,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52x6eax",
+      "matricula": "76576",
+      "nome": "ERASMO JOSE FLORIS RODRIGUEZ",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 137,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52n0t34",
+      "matricula": "80813",
+      "nome": "EVANILDA MOREL JARA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 96,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52iqeqr",
+      "matricula": "67900",
+      "nome": "FERNANDA APARECIDA CLEMENTE DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 82,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu523ffc9",
+      "matricula": "80971",
+      "nome": "FERNANDA CANDIDO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 185,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52o8uca",
+      "matricula": "61285",
+      "nome": "GEISIELLE APARECIDA DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 65,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu520pidm",
+      "matricula": "72206",
+      "nome": "GILDERLANIA SANTOS SOUZA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 8,
+        "por": 33,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52fiu2a",
+      "matricula": "74760",
+      "nome": "GISLAINE SANTIN DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 19,
+        "por": 58,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52azfat",
+      "matricula": "80814",
+      "nome": "GLEISSE NADIA SANTOS SOBRINHO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 15,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52qfnws",
+      "matricula": "63227",
+      "nome": "IVAN DOS SANTOS SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 53,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52w80mf",
+      "matricula": "63714",
+      "nome": "IVONE DA SILVA PAZ",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 45,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5271da8",
+      "matricula": "79351",
+      "nome": "JADIELSON LOPES DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 55,
+        "por": 30,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52tem2l",
+      "matricula": "65594",
+      "nome": "JAQUELINE BARRETO FERNANDES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 151,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52dzhzh",
+      "matricula": "79304",
+      "nome": "JEAN PATRICK TOSTA JANUARIO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 30,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52wuboi",
+      "matricula": "80076",
+      "nome": "JHEISON JESUS MAZA PEINADO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 123,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52h7455",
+      "matricula": "72208",
+      "nome": "JOAO MONTEIRO DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52ld850",
+      "matricula": "72777",
+      "nome": "JOAO VICTOR MACHADO PIGAIANI",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 1227,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52tlexe",
+      "matricula": "74057",
+      "nome": "JOAO VITOR PAWLIKOWSKI TRINDADE",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 41,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu522yhux",
+      "matricula": "80541",
+      "nome": "JOCIANA ANTUNES DA SILVA OLIVEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 13,
+        "por": 79,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52k0s9g",
+      "matricula": "80832",
+      "nome": "JOSE ADRIAN YUSTIZ GARCIA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 33,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu529uc5b",
+      "matricula": "80660",
+      "nome": "JOSE CARLOS DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 20,
+        "por": 199,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52zfxci",
+      "matricula": "78528",
+      "nome": "JOSE LUIS CEDENO HURTADO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 198,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5244918",
+      "matricula": "80420",
+      "nome": "JOSE NATALICIO DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 29,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52pv4u4",
+      "matricula": "75535",
+      "nome": "JOSIANE PASSOS MASQUETTO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 213,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu523kds0",
+      "matricula": "67344",
+      "nome": "JULIANA GOUVEIA DE SOUZA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 18,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52pyhbd",
+      "matricula": "80819",
+      "nome": "JULIO CESAR SOUSA DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 15,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu528i1ta",
+      "matricula": "79212",
+      "nome": "KIELSE JOSE NOGUEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 13,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu526cp81",
+      "matricula": "63230",
+      "nome": "LEANDRO DOS SANTOS CLEMENTINO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 34,
+        "por": 314,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu52d4j4r",
+      "matricula": "80975",
+      "nome": "LIDIANE MELO PORTILHO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 218,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu529z7dw",
+      "matricula": "78689",
+      "nome": "LORRAINE VITORIA DE OLIVEIRA LIMA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 156,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53ublus",
+      "matricula": "63711",
+      "nome": "LUCAS DA SILVA SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 103,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53ld8l0",
+      "matricula": "65076",
+      "nome": "LUCAS LIMA AFONSO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 100,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu537km86",
+      "matricula": "76573",
+      "nome": "LUIS MIGUEL JOSE FIGUERA HERNANDEZ",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 118,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53k25nf",
+      "matricula": "80272",
+      "nome": "MAIARA SOUZA DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 120,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53u5wks",
+      "matricula": "80821",
+      "nome": "MAIRA GALDINO DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 83,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53ibmbr",
+      "matricula": "79103",
+      "nome": "MARIA APARECIDA DA SILVA OLIVEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 1005,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53qbb9w",
+      "matricula": "73786",
+      "nome": "MARIA CICERA DA SILVA SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 12,
+        "por": 0,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53gldau",
+      "matricula": "74386",
+      "nome": "MARIA DE FATIMA LUCIO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 46,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53e6z28",
+      "matricula": "80424",
+      "nome": "MARINA APARECIDA DE OLIVEIRA SOUZA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 92,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53pht2p",
+      "matricula": "59190",
+      "nome": "MATEUS DOS SANTOS DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 43,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53t8jb5",
+      "matricula": "80823",
+      "nome": "MATEUS GABRIEL DE SOUZA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 226,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu538xy2u",
+      "matricula": "74084",
+      "nome": "RAFAEL GONCALVES DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu532z1cf",
+      "matricula": "69829",
+      "nome": "RAFAEL MOREIRA FILHO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 129,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53sm5iz",
+      "matricula": "73001",
+      "nome": "RAFAELA DE SOUZA PONTES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 31,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53uiuq8",
+      "matricula": "80042",
+      "nome": "RAISA DA LUZ RIBEIRO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 54,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53vc1e8",
+      "matricula": "62036",
+      "nome": "REGINA CELIA RODRIGUES DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 53,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5329xfr",
+      "matricula": "80824",
+      "nome": "ROBSON DOS SANTOS CRISPINIANO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 60,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5351l5f",
+      "matricula": "58209",
+      "nome": "ROSANA FERREIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 37,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53tujlh",
+      "matricula": "80670",
+      "nome": "ROSANGELA DA SILVA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 151,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53mziuo",
+      "matricula": "80671",
+      "nome": "ROSELI LIMA DA FONSECA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 9,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53sgnqx",
+      "matricula": "80826",
+      "nome": "ROSIMEIRE RODRIGUES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 111,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53oadl9",
+      "matricula": "80430",
+      "nome": "TATIANE ANACLETO RODRIGUES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 167,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53mulsk",
+      "matricula": "73006",
+      "nome": "TIFANY DA SILVA LIMA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 21,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53x7wsh",
+      "matricula": "69613",
+      "nome": "VALKIRIA DA SILVA FERREIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 130,
+        "por": 760,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu531edop",
+      "matricula": "80983",
+      "nome": "VANESSA PEREIRA MENDES",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 6,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53z00wu",
+      "matricula": "61266",
+      "nome": "VERANILDE MACEDO MOREIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 171,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53ndgo2",
+      "matricula": "80558",
+      "nome": "VINICIUS MIRANDA DE OLIVEIRA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 20,
+        "por": 66,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53xnubx",
+      "matricula": "68868",
+      "nome": "VITOR FERREIRA DA FONSECA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 58,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5331fcf",
+      "matricula": "79593",
+      "nome": "VITOR HUGO SILVA DE PAULA",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 13,
+        "por": 235,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu53fnsgf",
+      "matricula": "81289",
+      "nome": "WINDERGLIN SIRIANGGI YANEZ CASTELLANO",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 7,
+        "por": 109,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a3tu5354a1f",
+      "matricula": "64347",
+      "nome": "YASMIN DANIELA OLIVEIRA DOS SANTOS",
+      "turno": "2",
+      "setor": "Espostejamento 1",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 94,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a5cyarhklzy",
+      "matricula": "70191",
+      "nome": "RENAN DANIEL DAMACENO SANTOS",
+      "turno": "2",
+      "setor": "Cms",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 835,
+        "por": 559,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a5cyarjk23w",
+      "matricula": "78936",
+      "nome": "YENSO JOSE GREGORIO BEREQUEL PARUCHO",
+      "turno": "2",
+      "setor": "Cms",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 12,
+        "por": 298,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a5q870cv7x1",
+      "matricula": "63233",
+      "nome": "MARIA LUIZA DA SILVA",
+      "turno": "2",
+      "setor": "Peito/filé (sbb)",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 12,
+        "por": 236,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a5q870ao7tc",
+      "matricula": "74983",
+      "nome": "VALDIRENE PIRES",
+      "turno": "2",
+      "setor": "Peito/filé (sbb)",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 9,
+        "por": 0,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a670tnl5cpm",
+      "matricula": "81262",
+      "nome": "JESSICA FERNANDA PERATONI",
+      "turno": "2",
+      "setor": "Asa",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 20,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a670tnrwmc4",
+      "matricula": "81263",
+      "nome": "JORDANIA RAQUEL DA SILVA LIMA",
+      "turno": "2",
+      "setor": "Asa",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 12,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a670tnvpkl0",
+      "matricula": "81277",
+      "nome": "VANESSA DOMICIANO SANTOS",
+      "turno": "2",
+      "setor": "Asa",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 23,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrrzzgr",
+      "matricula": "57501",
+      "nome": "ALDIBERTO DA SILVA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 116,
+        "por": 115,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrcbmyd",
+      "matricula": "61837",
+      "nome": "ANA CLAUDIA DOS SANTOS SILVA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 71,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdreeude",
+      "matricula": "78429",
+      "nome": "ANA PAULA DE OLIVEIRA SANTOS SILVA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 144,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrbqcy1",
+      "matricula": "78928",
+      "nome": "ARGENIS ASAEL ROJAS PEDROZA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 164,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrsaire",
+      "matricula": "74172",
+      "nome": "BRUNA EVENING NUNES TEIXEIRA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 768,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrmaxvo",
+      "matricula": "61280",
+      "nome": "DAMARES DOS SANTOS NICOLOSSI",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 66,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrv090k",
+      "matricula": "78523",
+      "nome": "DAYANA DEL VALLE YEGUEZ ARIAS",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 133,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrkmjod",
+      "matricula": "69341",
+      "nome": "ELIADA BARBOSA DE LIMA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 104,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrukyqf",
+      "matricula": "72565",
+      "nome": "GABRIELY STEFANY DOS SANTOS",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 141,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrowyii",
+      "matricula": "69986",
+      "nome": "MARGARETE DOS SANTOS",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 110,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrqixw1",
+      "matricula": "64516",
+      "nome": "MARIA DAS GRACAS SANTOS BEZERRA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 202,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdr06w3v",
+      "matricula": "60874",
+      "nome": "MARIA GRAZIELE DOS SANTOS",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 8,
+        "por": 558,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdr26kxs",
+      "matricula": "59227",
+      "nome": "MARIA JACKIELLE SANTOS DE LIMA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 210,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrcctsh",
+      "matricula": "80550",
+      "nome": "MARIA JORGIANA NASCIMENTO DE SOUSA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 232,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrwdxuf",
+      "matricula": "57659",
+      "nome": "ROSANGELA TEIXEIRA DOS SANTOS OLIVEIRA",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 304,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a69mdrqqe3y",
+      "matricula": "73005",
+      "nome": "TAINA DOS SANTOS",
+      "turno": "2",
+      "setor": "Bandeja",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 101,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6bgdhpmg05",
+      "matricula": "79604",
+      "nome": "DENER SORRILHA ESCOBAR",
+      "turno": "2",
+      "setor": "Tunel",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 2556,
+        "por": 2076,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6bgdhf8arq",
+      "matricula": "59588",
+      "nome": "OSEIAS RIBEIRO DA SILVA",
+      "turno": "2",
+      "setor": "Tunel",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 50,
+        "por": 115,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6bgdh1hae9",
+      "matricula": "76925",
+      "nome": "WELLINGTON SOARES DA MOTTA",
+      "turno": "2",
+      "setor": "Tunel",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 9,
+        "por": 0,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kcydp3a",
+      "matricula": "73773",
+      "nome": "CAIO CESAR GOMES",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 103,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kcgf0me",
+      "matricula": "72759",
+      "nome": "CLAUDIO HENRIQUE RAMOS DA SILVA",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 16,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kcilah4",
+      "matricula": "75524",
+      "nome": "EDER DA SILVA",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 12,
+        "por": 303,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kcfiotd",
+      "matricula": "72783",
+      "nome": "ELIANE DE MORAIS DA SILVA",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 196,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kc3dr6k",
+      "matricula": "57572",
+      "nome": "ELISON JUNIO DE OLIVEIRA ARAUJO",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 146,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kckwt2z",
+      "matricula": "58999",
+      "nome": "GALDINO FERREIRA CARNEIRO NETO",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 220,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kco1tam",
+      "matricula": "63700",
+      "nome": "GIRLIAN FRANCISCO DOS SANTOS",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 76,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kcdwxyi",
+      "matricula": "73495",
+      "nome": "JEFERSON DE OLIVEIRA BENAQUIO",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 16,
+        "por": 14,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 110
+      }
+    },
+    {
+      "id": "m9a6d6kc6zfhi",
+      "matricula": "79432",
+      "nome": "JOSE AILTON BEZERRA",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 111,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kcd7imw",
+      "matricula": "59301",
+      "nome": "JOSE OLTAIR ELEUTERIO",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 226,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kdruc59",
+      "matricula": "80028",
+      "nome": "LEANDRO BRAZ DA SILVA",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 115,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kddgimd",
+      "matricula": "81275",
+      "nome": "UILIAN FREITAS DOS SANTOS",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 39,
+        "por": 0,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kdrfcz4",
+      "matricula": "75277",
+      "nome": "VALDOMIRO DE SOUSA MARQUES",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 79,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6d6kdg4j25",
+      "matricula": "62840",
+      "nome": "WANDERLEI APARECIDO BASTREGHI",
+      "turno": "2",
+      "setor": "Paletização",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 38,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vdywipj",
+      "matricula": "58178",
+      "nome": "JOYCE KAUANA SANJULIANO",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 219,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vdm5h1b",
+      "matricula": "72805",
+      "nome": "MARCOS ROBERTO BISPO SANTOS",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 325,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 978
+      }
+    },
+    {
+      "id": "m9a6g6vd1nfhc",
+      "matricula": "58255",
+      "nome": "MAYARA GOMES DORNE",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 534,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vdji7d9",
+      "matricula": "80959",
+      "nome": "NOEMIA BERNARDINO",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 182,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vd78azu",
+      "matricula": "61848",
+      "nome": "SUELLEN GRAZIELLA DE FRANCA NASCIMENTO",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 6,
+        "por": 204,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vdaueb1",
+      "matricula": "55681",
+      "nome": "TATIANA DE ANDRADE CLEMENTE",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 535,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vdi8bmr",
+      "matricula": "80981",
+      "nome": "VALMIR AUGUSTO VIDALETTI",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 13,
+        "por": 553,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6g6vdpy9wj",
+      "matricula": "80960",
+      "nome": "WILLIAN DOS SANTOS VIDALETTI",
+      "turno": "2",
+      "setor": "Embalagem primária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 33,
+        "por": 532,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dh7njt",
+      "matricula": "80968",
+      "nome": "CLAUDETE VIEIRA PINTO",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 267,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dzdv8a",
+      "matricula": "76910",
+      "nome": "ERICK JESUS DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 7,
+        "por": 92,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0ddp8yy",
+      "matricula": "76704",
+      "nome": "FABIO XAVIER",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 16,
+        "por": 210,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0d474ie",
+      "matricula": "75296",
+      "nome": "GUSTAVO HENRIQUE PEREIRA DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 28,
+        "por": 115,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0d3oc7b",
+      "matricula": "71159",
+      "nome": "ISABEL CRISTINA DA SILVA",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 83,
+        "por": 570,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0d5oh44",
+      "matricula": "80756",
+      "nome": "IZABELLY ARCE BAZANO",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 193,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dsa52n",
+      "matricula": "78529",
+      "nome": "LEANDRO CARDOSO BRITO",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 26,
+        "por": 177,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0d1n6qh",
+      "matricula": "60535",
+      "nome": "LINDOLFO BATISTA DE SOUSA",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 146,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dpxpbx",
+      "matricula": "78690",
+      "nome": "MATHEUS GONCALVES DOS SANTOS",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 18,
+        "por": 329,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dnwam4",
+      "matricula": "69701",
+      "nome": "MATIAS SANTOS DA GAMA",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 27,
+        "por": 48,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0d8paol",
+      "matricula": "80425",
+      "nome": "NATAN MARTINS NERIS",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 9,
+        "por": 59,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dgtblz",
+      "matricula": "81133",
+      "nome": "VITOR CREPALDI SILVERIO",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 198,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dorlyo",
+      "matricula": "80827",
+      "nome": "VITOR KAUA DA SILVA",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 239,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6jb0dsl9wx",
+      "matricula": "76577",
+      "nome": "WELINGTON GABRIEL DE PINA GONCALVES",
+      "turno": "2",
+      "setor": "Embalagem secundária",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 15,
+        "por": 272,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6kn7iv4asp",
+      "matricula": "58759",
+      "nome": "ADRIANO SANTOS ALMEIDA",
+      "turno": "2",
+      "setor": "Expedição",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 200,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6kn7irkd44",
+      "matricula": "64810",
+      "nome": "ANDERSON SOARES DA SILVA",
+      "turno": "2",
+      "setor": "Expedição",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 155,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 113
+      }
+    },
+    {
+      "id": "m9a6kn7ix0o1w",
+      "matricula": "58738",
+      "nome": "GELSON DE OLIVEIRA BENAQUIO",
+      "turno": "2",
+      "setor": "Expedição",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 461,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 114
+      }
+    },
+    {
+      "id": "m9a6kn7i3zn1e",
+      "matricula": "55859",
+      "nome": "JOSE ADRIANO SANTOS DA SILVA",
+      "turno": "2",
+      "setor": "Expedição",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 277,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6kn7icfa6c",
+      "matricula": "80555",
+      "nome": "VAGNER FERREIRA ROHLING",
+      "turno": "2",
+      "setor": "Expedição",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 155,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2nthv298",
+      "matricula": "80408",
+      "nome": "AGUINARIA DE SOUZA BERNARDO",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 23,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntftt6f",
+      "matricula": "57731",
+      "nome": "ALINE SOARES DOS SANTOS POTRONHIRI",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 105,
+        "por": 182,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntgh7cg",
+      "matricula": "74929",
+      "nome": "ANA CLARA VALENTIN DA SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 211,
+        "por": 28,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntwfmbb",
+      "matricula": "62188",
+      "nome": "ANALICE DOS SANTOS SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 8,
+        "por": 43,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2nts21ho",
+      "matricula": "78686",
+      "nome": "BLENDA MARIA BATISTA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 30,
+        "por": 24,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntx9phv",
+      "matricula": "78929",
+      "nome": "CLEIDE DA COSTA SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 28,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntvdbqr",
+      "matricula": "74005",
+      "nome": "JOSIANE JUVENCINA MENDOCA FONZAR",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 8,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntwidyc",
+      "matricula": "73783",
+      "nome": "LEXSANDRA CARDOSO DA SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 23,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2nt891ns",
+      "matricula": "75516",
+      "nome": "LUCIMEIRE OLIVEIRA EUGENIO DA SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 28,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2nts35mg",
+      "matricula": "80668",
+      "nome": "MARY SAMELA SANTANA OTAVO",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 9,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntvol38",
+      "matricula": "62495",
+      "nome": "MONIQUE STEFANI DOS SANTOS",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 23,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntg8olp",
+      "matricula": "61731",
+      "nome": "NATALIA APARECIDA ROCHA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 44,
+        "por": 209,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2nt92flx",
+      "matricula": "57854",
+      "nome": "ROSEMERI ANDRADE DA SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 52,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntswa27",
+      "matricula": "79218",
+      "nome": "ROSENILDA SANTINA DA SILVA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 47,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntpt5g7",
+      "matricula": "60894",
+      "nome": "TAINA FERNANDA DIAS RODRIGUES",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 7,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6m2ntyopfz",
+      "matricula": "59450",
+      "nome": "THAYSA DE SOUZA",
+      "turno": "2",
+      "setor": "Serviço de inspeção",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 7,
+        "por": 136,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn6o0qn7",
+      "matricula": "79198",
+      "nome": "ADRIANA FERREIRA BACARO",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 48,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn6m2pce",
+      "matricula": "65089",
+      "nome": "ANTONIO DOS SANTOS",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 6,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn6j6qyf",
+      "matricula": "70108",
+      "nome": "ILMA AMARAL DE FREITAS",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 49,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn6s5i0m",
+      "matricula": "76023",
+      "nome": "NATHIELY DA SILVA ATANAZIO",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 18,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn60mmxq",
+      "matricula": "62827",
+      "nome": "SUELY SILVA DOS SANTOS",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 52,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn67usky",
+      "matricula": "62488",
+      "nome": "TAIS SILVA LIMA",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 75,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6njn6lko2e",
+      "matricula": "61296",
+      "nome": "WILSON MAXIMIANO",
+      "turno": "2",
+      "setor": "Higienização operacional",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 0,
+        "por": 226,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6oyclropxf",
+      "matricula": "55856",
+      "nome": "ADECIR TOLENTINO DOS SANTOS",
+      "turno": "2",
+      "setor": "Higienização externa",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 1,
+        "por": 26,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    },
+    {
+      "id": "m9a6oyclthkxu",
+      "matricula": "55837",
+      "nome": "ANTONIO DA SILVA",
+      "turno": "2",
+      "setor": "Higienização externa",
+      "data": "2025-04-09",
+      "horas": {
+        "anti": 2,
+        "por": 29,
+        "extra75": 0,
+        "extra80": 0,
+        "extra100": 0
+      }
+    }
+  ],
+  "planoAcaoGeral": "",
+  "planoAcaoDepartamento": {},
+  "planoAcaoIndividual": {},
+  "justificativaDepartamento": {},
+  "justificativaIndividual": {}
+}
